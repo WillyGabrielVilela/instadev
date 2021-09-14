@@ -1,2 +1,4 @@
 <h1 align="center">InstaDev</h1>
-![Logo do Markdown](img/read.png)
+<h1 align="center">
+  <img alt="InstaDev" title="InstaDev" src="./assets/read.png" />
+</h1>
